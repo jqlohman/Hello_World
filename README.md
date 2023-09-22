@@ -1,6 +1,6 @@
 Here is Quincy Lohman's data file. It isn't the most advanced, but it gets the job done.
 
-## **bold text** Table of contents
+## ** TABLE OF CONTEXT**
 
 - [TITLE](#Title)
 - [DESCRIPTION](#Description)
