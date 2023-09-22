@@ -18,6 +18,4 @@ Once again, this is Quincy Lohman and I am learning how to do a GitHub for class
 
 ## Mode
 
-This is the final mode of my progess. It hopefully is working much better than the origional. Also, here is a link for my Dance Marathon account. If you want to donate to that, I would appreciate it
-
-[dance_marathon] (https://donate.dancemarathon.uiowa.edu/detail/4337)
+This is the final mode of my progess. It hopefully is working much better than the origional. Also, here is a link for my Dance Marathon account. If you want to donate to that, I would appreciate it [dance_marathon](https://donate.dancemarathon.uiowa.edu/detail/4337)
